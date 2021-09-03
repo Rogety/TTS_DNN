@@ -9,8 +9,11 @@
         - source 
             - lab
                 - state
+                    - xxx.lab ~ xxx.lab   
             - lf0
+                - xxx.lf0 ~ xxx.lf0
             - mgc
+                - xxx.mgc ~ xxx.mgc
             - set
             - stat
         - gen
